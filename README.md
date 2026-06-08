@@ -1,16 +1,14 @@
-# React + Vite
+# 🔵 LinkedIn Login Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Exercício prático da disciplina de **Desenvolvimento de Aplicações** — SerraTec  
+> Clone da página de login do LinkedIn.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📸 Preview
 
-## React Compiler
+<img width="1359" height="631" alt="Image" src="https://github.com/user-attachments/assets/eff0378e-4d6e-4161-8884-a5e174ae573e" />
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+> Interface clonada da página oficial de login do LinkedIn ([linkedin.com/login](https://www.linkedin.com/login))
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
